@@ -1,2 +1,2 @@
 # geo-clustering-analysis
-Geolocation clustering based on user check-ins, and geo-based analysis
+Geolocation clustering using pyspark, based on user check-ins, and geo-based analysis
